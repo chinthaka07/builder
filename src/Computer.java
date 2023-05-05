@@ -4,6 +4,7 @@ public class Computer {
     private int displaySize;
     private long diskSpace;
 
+
     public Computer(String brand, int ram, int displaySize, long diskSpace) {
         this.brand = brand;
         this.ram = ram;
