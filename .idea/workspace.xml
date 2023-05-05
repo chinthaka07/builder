@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4d715f1-8ba7-40e0-b611-aca3e1b46c99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComputerShop.java" afterDir="false" />
+    <list default="true" id="c4d715f1-8ba7-40e0-b611-aca3e1b46c99" name="Changes" comment="2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputerShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComputerShop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,11 +67,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683276893440</updated>
-      <workItem from="1683276894574" duration="233000" />
+      <workItem from="1683276894574" duration="490000" />
     </task>
+    <task id="LOCAL-00001" summary="2">
+      <created>1683277138743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683277138743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
 </project>
